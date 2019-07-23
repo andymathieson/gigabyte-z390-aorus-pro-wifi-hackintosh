@@ -65,3 +65,32 @@ TODO
 
 GPU no fans . 
 Ethernet
+• Sound 
+
+• HDMI Port on AMD RX580 / 590 ( Ensure you disable BIOS CSM if using HDMI on RX580 / RX590 )
+
+• HDMI Port on Aorus Z390 Motherboard ( Ensure you have correct BIOS settings as per this guide for Intel only)
+
+• Ethernet Port
+
+• WiFi
+
+• SSD Trim
+
+• USB 3.0 & 2.0 
+
+• AirDrop
+
+• iCloud
+
+• Hardware Acceleration
+
+• iMessages
+
+• Facetime
+
+• Handoff
+
+• Continuity
+
+
