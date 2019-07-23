@@ -10,7 +10,7 @@ OSX Version: Mojave 10.14.5
 Clover Version: 2.5 r5027 https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027
 
 
-Hardware
+##Hardware
 Motherboard: Gigabyte Z390 Auros Pro Wifi . 
 CPU: Intel I5 9600k . 
 GPU: MSI Vega 56 Air Boost 8GB HBM2 . 
@@ -20,7 +20,7 @@ PSU: Corsair TX850M  Semi-Modular 80 PLUS Gold .
 CPU cooler: Cooler Master Hyper 212X . 
 Case: NZXT H500
 
-Bios Settings
+##Bios Settings
 
 1. Bios updated to version F10 - see source files or http://download.gigabyte.eu/FileList/BIOS/mb_bios_z390-aorus-pro_f10.zip
 2. Load optimise defaults
@@ -37,7 +37,7 @@ Bios Settings
 
 
 
-Preparing USB installer
+##Preparing USB installer
 1. Download Mojave from Apple App store
 2. Insert USB drive (Min 8gb / Max 32gb) Open Disk Utility > View > Show all Devices
 3. Select USB Drive and erase and call it INSTALLER  
@@ -56,12 +56,12 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
 
 
 
-Working
+##Working
 All memory showing and working at speed XMP enabled
 
-Not Working
+##Not Working
 
-TODO
+##TODO
 
 GPU no fans . 
 Ethernet
