@@ -1,0 +1,1 @@
+Efiflash Z390AOPW.F10
