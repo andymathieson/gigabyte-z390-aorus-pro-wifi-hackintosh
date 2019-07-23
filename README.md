@@ -63,5 +63,5 @@ Not Working
 
 TODO
 
-GPU no fans
+GPU no fans . 
 Ethernet
