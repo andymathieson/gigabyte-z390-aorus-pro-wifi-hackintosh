@@ -23,7 +23,7 @@
 
 ## Bios Settings
 
-1. Bios updated to version F10 - see source files or http://download.gigabyte.eu/FileList/BIOS/mb_bios_z390-aorus-pro_f10.zip
+1. [Bios updated to version F10](http://download.gigabyte.eu/FileList/BIOS/mb_bios_z390-aorus-pro_f10.zip)
 2. Load optimise defaults
 3. MIT > Advanced Memory Settings > XMP > Profile 1
 4. Bios > Fastboot > Disabled 
