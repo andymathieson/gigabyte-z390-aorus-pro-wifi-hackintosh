@@ -1,23 +1,25 @@
-# gigabyte-z390-aorus-pro-wifi-hackintosh
+# Gigabyte-z390-aorus-pro-wifi-hackintosh
 
-Guides used
+## Guides used
 
 Morgonout - Building a Hackintosh
 
 https://www.youtube.com/watch?v=fA9AotXqkqA
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fA9AotXqkqA/0.jpg)](http://www.youtube.com/watch?v=fA9AotXqkqA)
 
 OSX Version: Mojave 10.14.5
 Clover Version: 2.5 r5027 https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027
 
 
 ## Hardware
-+ Motherboard: Gigabyte Z390 Auros Pro Wifi . 
-+ CPU: Intel I5 9600k . 
-+ GPU: MSI Vega 56 Air Boost 8GB HBM2 . 
-+ Ram: G.Skill 32 GB DDR4-3200 CL16 G.Skill RipJaws V Noir 4*8 sticks . 
-+ Boot Drive: Corsair MP510 480 GB NVMe PCIe Gen3 x 4 M.2 Solid State Drive . 
-+ PSU: Corsair TX850M  Semi-Modular 80 PLUS Gold . 
-+ CPU cooler: Cooler Master Hyper 212X . 
++ Motherboard: Gigabyte Z390 Auros Pro Wifi
++ CPU: Intel I5 9600k
++ GPU: MSI Vega 56 Air Boost 8GB HBM2
++ Ram: G.Skill 32 GB DDR4-3200 CL16 G.Skill RipJaws V Noir 4*8 sticks
++ Boot Drive: Corsair MP510 480 GB NVMe PCIe Gen3 x 4 M.2 Solid State Drive
++ PSU: Corsair TX850M  Semi-Modular 80 PLUS Gold
++ CPU cooler: Cooler Master Hyper 212X
 + Case: NZXT H500
 
 ## Bios Settings
