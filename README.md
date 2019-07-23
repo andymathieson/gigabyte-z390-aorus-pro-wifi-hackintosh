@@ -11,14 +11,14 @@ Clover Version: 2.5 r5027 https://github.com/Dids/clover-builder/releases/tag/v2
 
 
 ## Hardware
-Motherboard: Gigabyte Z390 Auros Pro Wifi . 
-CPU: Intel I5 9600k . 
-GPU: MSI Vega 56 Air Boost 8GB HBM2 . 
-Ram: G.Skill 32 GB DDR4-3200 CL16 G.Skill RipJaws V Noir 4*8 sticks . 
-Boot Drive: Corsair MP510 480 GB NVMe PCIe Gen3 x 4 M.2 Solid State Drive . 
-PSU: Corsair TX850M  Semi-Modular 80 PLUS Gold . 
-CPU cooler: Cooler Master Hyper 212X . 
-Case: NZXT H500
++ Motherboard: Gigabyte Z390 Auros Pro Wifi . 
++ CPU: Intel I5 9600k . 
++ GPU: MSI Vega 56 Air Boost 8GB HBM2 . 
++ Ram: G.Skill 32 GB DDR4-3200 CL16 G.Skill RipJaws V Noir 4*8 sticks . 
++ Boot Drive: Corsair MP510 480 GB NVMe PCIe Gen3 x 4 M.2 Solid State Drive . 
++ PSU: Corsair TX850M  Semi-Modular 80 PLUS Gold . 
++ CPU cooler: Cooler Master Hyper 212X . 
++ Case: NZXT H500
 
 ## Bios Settings
 
@@ -57,7 +57,7 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
 
 
 ## Working
-All memory showing and working at speed XMP enabled
++ All memory showing and working at speed XMP enabled
 
 ## Not Working
 
