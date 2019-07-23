@@ -1,16 +1,14 @@
 # Gigabyte-z390-aorus-pro-wifi-hackintosh
 
 ## Guides used
-Credits
-
-[Teresa Morgonaut](https://www.patreon.com/morgonaut "Morgonaut's Patreon page")
-
 [![BIOS settings on GIGABYTE motherboards](http://img.youtube.com/vi/EU6dsx9Z318/0.jpg)](http://www.youtube.com/watch?v=EU6dsx9Z318)
 
 [![Morgonout - Building a Hackintosh](http://img.youtube.com/vi/fA9AotXqkqA/0.jpg)](http://www.youtube.com/watch?v=fA9AotXqkqA)
 
-OSX Version: Mojave 10.14.5
-Clover Version: 2.5 r5027 https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027
+## Downloads
++ OSX Version: Mojave 10.14.5
++ [Clover Version: 2.5 r5027](https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027)
+
 
 
 ## Hardware
@@ -96,4 +94,6 @@ Ethernet
 
 • Continuity
 
+## Credits
+[Teresa Morgonaut](https://www.patreon.com/morgonaut "Morgonaut's Patreon page")
 
