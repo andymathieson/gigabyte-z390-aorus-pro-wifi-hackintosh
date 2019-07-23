@@ -43,7 +43,7 @@ Preparing USB installer
 4. Choose Mac Os Journaled & GUID partion
 5. Close Disk utility
 6. Open Terminal and paste
-```
+```python
 sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/INSTALLER
 ```
 7. Enter your password / confirm erasing of disk and then wait around half an hour.
