@@ -7,6 +7,7 @@ Morgonout - Building a Hackintosh
 https://www.youtube.com/watch?v=fA9AotXqkqA
 
 OSX Version: Mojave 10.14.5
+Clover Version: 2.5 r5027 https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027
 
 
 Hardware
