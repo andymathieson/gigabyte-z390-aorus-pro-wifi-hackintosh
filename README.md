@@ -5,6 +5,9 @@
 
 [![Morgonout - Building a Hackintosh](http://img.youtube.com/vi/fA9AotXqkqA/0.jpg)](http://www.youtube.com/watch?v=fA9AotXqkqA)
 
+SMBIOS FROM HERE
+https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh/blob/master/STEP_BY_STEP.md
+
 ## Downloads
 + OSX Version: Mojave 10.14.5
 + [Clover Version: 2.5 r5027](https://github.com/Dids/clover-builder/releases/tag/v2.5k_r5027)
@@ -59,11 +62,13 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
  12. Download and open Clover configurator from https://mackie100projects.altervista.org/download/ccg/
  13. On desktop, goto EFI Drive > EFI > CLOVER > right click config.plist and open in CCR
  14. Click Kexts Installer and in top right dropdown select other.
- 15. Click Lilu, WhateverGreen, FakeSMC and download. Check the Sensors only when asked. NOT HWMonitor.
+ 15. Click Lilu, WhateverGreen, FakeSMC,USBinjectAll,IntelMausIEthernet and download. Check the Sensors only when asked. NOT HWMonitor.
  16. Delete config.plist from EFI 
  17. Go here for sample config.plist https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/clover-setup
  18. Select Coffee Lake, Scroll to absolute boottom and click on 'sample config.plist here' and copy.
  19. Paste into TextEdit and make plain text. Save as config.plist and move to EFI > CLOVER folder. Right click and open in CCR
+ 20. In SMBIOS on right, click up-down arrow. I'm testing this buld with imac19,1. Click check coverage and be sure that this model is NOT valid
+ 21. In RT Variables, copy and paste the MLB number from the info below
   
 
 
