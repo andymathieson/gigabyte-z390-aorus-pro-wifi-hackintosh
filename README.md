@@ -70,6 +70,10 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
  20. In SMBIOS on right, click up-down arrow. I'm testing this buld with imac19,1. Click check coverage and be sure that this model is NOT valid
  21. In RT Variables, copy and paste the MLB number from the info below
   
+## Installing OSX
+1. Eject the USB from source machine and install into a USB 2 port !important
+2. Go to Disk Utility > View all > click new boot drive, and erase. I called mine Mojave. GUID and Mac OS journaled.
+3. Close disk utitily and install on clean drive. 
 
 
 
