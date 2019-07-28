@@ -62,7 +62,7 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
  12. Download and open Clover configurator from https://mackie100projects.altervista.org/download/ccg/
  13. On desktop, goto EFI Drive > EFI > CLOVER > right click config.plist and open in CCR
  14. Click Kexts Installer and in top right dropdown select other.
- 15. Click Lilu, WhateverGreen, FakeSMC,**USBinjectAll,**IntelMausIEthernet and download. Check the Sensors only when asked. NOT HWMonitor.
+ 15. Click Lilu, WhateverGreen, FakeSMC,USBinjectAll,**IntelMausIEthernet and download. Check the Sensors only when asked. NOT HWMonitor.
  16. Delete config.plist from EFI 
  17. Go here for sample config.plist https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/clover-setup
  18. Select Coffee Lake, Scroll to absolute boottom and click on 'sample config.plist here' and copy.
