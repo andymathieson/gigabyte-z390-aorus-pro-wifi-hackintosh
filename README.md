@@ -30,7 +30,7 @@ https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh/blob/master/STEP_B
 2. Load optimise defaults
 3. MIT > Advanced Memory Settings > XMP > Profile 1
 4. Bios > Fastboot > Disabled 
-5. Bios > Windows 8/10
+5. Bios > ~~Windows 8/10~~ Other OS
 6. Bios > CSM Support > Enabled (Morgonaout says this can be problematic for some)
 7. Peripherals > Initial Display Output > PCIe 1 Slot 
 8. Peripherals > Trusted computing > Security Device Support > Disabled
@@ -38,6 +38,11 @@ https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh/blob/master/STEP_B
 10. Peripherals > SATA > Sata mode selection > AHCI
 11. Chipset > VT-d > Disabled
 12. Chipset > Internal Graphics > Enabled
+13.  Power → Platform Power Management → Disabled ( Change to enabled after macOS is installed )
+14. Power → RC6 (Render Standby) → Disabled
+
+Open Terminal and enter the following command:
+sudo trimforce enable
 
 
 
@@ -100,21 +105,24 @@ That means sadly we lose the two ports next to the ethernet port.
 
 
 ## Working
-+ All memory showing and working at speed XMP enabled
+ All memory showing and working at speed XMP enabled
+
+• Ethernet Port
+
+• USB 3.0 & 2.0 
 
 ## Not Working
 
 ## TODO
 
-GPU no fans . 
-Ethernet
+
 • Sound 
 
 • HDMI Port on AMD RX580 / 590 ( Ensure you disable BIOS CSM if using HDMI on RX580 / RX590 )
 
 • HDMI Port on Aorus Z390 Motherboard ( Ensure you have correct BIOS settings as per this guide for Intel only)
 
-• Ethernet Port
+
 
 • WiFi
 
