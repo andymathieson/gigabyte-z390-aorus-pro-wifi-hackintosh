@@ -67,13 +67,30 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
  17. Go here for sample config.plist https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/clover-setup
  18. Select Coffee Lake, Scroll to absolute boottom and click on 'sample config.plist here' and copy.
  19. Paste into TextEdit and make plain text. Save as config.plist and move to EFI > CLOVER folder. Right click and open in CCR
- 20. In SMBIOS on right, click up-down arrow. I'm testing this buld with imac19,1. Click check coverage and be sure that this model is NOT valid
+ ~~20. In SMBIOS on right, click up-down arrow. I'm testing this buld with imac19,1. Click check coverage and be sure that this model is NOT valid~~
+ 
+ 
 
   
 ## Installing OSX
 1. Eject the USB from source machine and install into a USB 2 port !important
 2. Go to Disk Utility > View all > click new boot drive, and erase. I called mine Mojave. GUID and Mac OS journaled.
 3. Close disk utitily and install on clean drive. 
+
+
+## Creating USB SSDT
+I used [this link](https://www.youtube.com/watch?v=j3V7szXZZTc&feature=youtu.be) as a guide.
+Slight changes:
+
+12:47 on video, my output is showing the reverse to include so the correct code to paste is
+```
+-uia_exclude_hs uia_include=HS13
+```
+This allows the 4 top USB 2.0 ports on the MOBO to work.
+
+16:50 the ports to disable for this board are ```1,2,7,8,14,15,16,17,18,23,24```
+That means sadly we lose the two ports next to the ethernet port.
+
 
 
 
