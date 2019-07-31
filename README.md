@@ -111,6 +111,12 @@ That means sadly we lose the two ports next to the ethernet port.
 
 • USB 3.0 & 2.0 
 
+• iCloud
+
+. Screensaver?
+
+. Sleep / Wake ????
+
 ## Not Working
 
 ## TODO
@@ -132,7 +138,7 @@ That means sadly we lose the two ports next to the ethernet port.
 
 • AirDrop
 
-• iCloud
+
 
 • Hardware Acceleration
 
